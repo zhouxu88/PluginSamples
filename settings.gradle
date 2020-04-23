@@ -1,0 +1,7 @@
+rootProject.name='PluginSamples'
+include ':app'
+include ':baseplugin'
+include ':plugin1'
+include ':plugin_core'
+include ':plugin2'
+include ':dynamic_resource'

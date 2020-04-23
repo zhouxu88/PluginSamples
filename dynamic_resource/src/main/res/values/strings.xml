@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic_Resource</string>
+
+    <string name="plugin_text">这是插件资源中的文本</string>
+</resources>
